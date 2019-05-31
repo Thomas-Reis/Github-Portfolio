@@ -26,17 +26,25 @@ A personal project created for the reverse career fair at UOIT in Fall 2018. A s
   
 ## Number Recognizing Neural Net
 A neural network created using tensorflow that enabled the identification of numbers based on set requirements for the project. Was able to recognize numbers that were corrupted or poorly drawn as well.
+
+## VISUAL HERE
   
 # Cloud Computing/Full Stack Items
 ## Cloud-Computing-Final
 A lightweight website Designed to allow students to create portfolios of their projects, and for employers to easily search and discover potential new employees upon graduation or for internships/co-ops.
 
+## VISUAL HERE
+
 ## Renofai (Not Listed)
 Renofai is not listed on the repos due to the potential for monetization for the project, and the client does not wish to have the code publicly displayed at the moment.
+
+## VISUAL HERE
 
 # Other Projects
 ## Distributed K-Means++ (Data Mining/Distributed Computing)
 The final project for distributed computing where we implemented the K-Means++ classification algorithm into a distributed environment using JeroMQ (ZeroMQ but for Java) using the MQTT protocol of pub/sub to distribute data to classify.
+
+## VISUAL HERE?
 
 ## Comparative Study of PSO (Particle Swarm Optimization) and DE (Differential Evolution). (Not Listed)
 The repo for this project is unlisted as I did not create it, it was a group project, and it is currently private.
