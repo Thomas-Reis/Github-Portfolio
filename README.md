@@ -19,6 +19,7 @@ The following is a GIF of one run of the game where the AI in competitive mode
 * When one goes red that means it is in a collision with another AI and the 2 must attempt to get away from one another
 * When one is white that means it is simply wandering
 * The (number) symbols around are where the AI is headed next, it is a simple way to view how it thinks and moves
+* The symbols around are the targets themselves labelled with: (AI #)-(Target#) (eg. 3-0 is AI 3's target 0, each agent has their own targets labelled 0 - 4)
 
 ## Blackjack-AI
 A personal project created for the reverse career fair at UOIT in Fall 2018. A simple blackjack AI that used simple probability to determine what moves to make to avoid losing.
