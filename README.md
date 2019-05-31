@@ -15,7 +15,8 @@
 * [DE VS PSO Benchmarking](#de-pso)
 
 # Machine Learning/AI Items <a name="ml-ai"/>
-## AI-Final <a name="ai-final">
+<a name="ai-final">
+## AI-Final
 A target finding game played entirely by AI with a variety of features and implementations made to ensure that the AI had some resemblance of a real scenario. Each AI has a goal to obtain their personal 5 targets within the game board, the only way to obtain them is to walk over them within a 20 tile radius. The AI are equipped with a radar-like device that can view all around them and they can find and remember the locations of their targets as well as their opponents targets.
 * Features 3 Game Modes (Cooperative, Competitive, and Compassionate)
 * In Cooperative the AI will share every target they find with their respective owners
