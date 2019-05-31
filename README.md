@@ -14,10 +14,12 @@
 * [Distributed K-Means Classification](#d-k-means)
 * [DE VS PSO Benchmarking](#de-pso)
 
-# Machine Learning/AI Items <a name="ml-ai"/>
+<a name="ml-ai"/>  
+
+# Machine Learning/AI Items 
 <a name="ai-final"/>  
 
-## AI-Final  
+## AI-Final - Target Finding AI 
 A target finding game played entirely by AI with a variety of features and implementations made to ensure that the AI had some resemblance of a real scenario. Each AI has a goal to obtain their personal 5 targets within the game board, the only way to obtain them is to walk over them within a 20 tile radius. The AI are equipped with a radar-like device that can view all around them and they can find and remember the locations of their targets as well as their opponents targets.
 * Features 3 Game Modes (Cooperative, Competitive, and Compassionate)
 * In Cooperative the AI will share every target they find with their respective owners
@@ -52,7 +54,7 @@ A neural network created using tensorflow that enabled the identification of num
 <a name="full-stack"/>  
 
 # Cloud Computing/Full Stack Items 
-## Cloud-Computing-Final <a name="cloud-computing-final"/>
+## Portfol.io - Cloud-Computing-Final <a name="cloud-computing-final"/>
 A lightweight website Designed to allow students to create portfolios of their projects, and for employers to easily search and discover potential new employees upon graduation or for internships/co-ops.
 
 ### VISUAL HERE
