@@ -15,6 +15,10 @@ A target finding game played entirely by AI with a variety of features and imple
 The following is a GIF of one run of the game where the AI in competitive mode  
 
 ![AI GIF](https://i.imgur.com/2alhh68.gif)
+* When one goes green that means it knows where one of its points are and is pathfinding its way to it (it could have traded)
+* When one goes red that means it is in a collision with another AI and the 2 must attempt to get away from one another
+* When one is white that means it is simply wandering
+* The (number) symbols around are where the AI is headed next, it is a simple way to view how it thinks and moves
 
 ## Blackjack-AI
 A personal project created for the reverse career fair at UOIT in Fall 2018. A simple blackjack AI that used simple probability to determine what moves to make to avoid losing.
