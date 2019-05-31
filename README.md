@@ -13,6 +13,7 @@ A target finding game played entirely by AI with a variety of features and imple
 
 <a/>
 The following is a GIF of one run of the game where the AI in competitive mode  
+
 ![AI GIF](https://i.imgur.com/2alhh68.gif)
 
 ## Blackjack-AI
