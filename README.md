@@ -10,8 +10,10 @@ A target finding game played entirely by AI with a variety of features and imple
 * In Compassionate the AI will give out targets to other AI who are losing (unhappy, see below)
 * The Happiness rating is a measurement used to determine if an AI is finding their targets successfully. It is measured by the following: (# of targets collected)/((# of steps taken + 1)x(Maximum Happiness so far)). As such agents get unhappy if they wander a lot and fail to obtain any targets
 * Using these measurements and game modes we did some data processing on the results of the different game modes and user happiness values and determined that they were most unhappy when competitive and lied the most in that game mode, and were most happy in the cooperative game mode
+
+<a/>
 The following is a GIF of one run of the game where the AI in competitive mode  
-![Alt Text](https://i.imgur.com/2alhh68.gif)
+![AI GIF](https://i.imgur.com/2alhh68.gif)
 
 ## Blackjack-AI
 A personal project created for the reverse career fair at UOIT in Fall 2018. A simple blackjack AI that used simple probability to determine what moves to make to avoid losing.
