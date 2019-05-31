@@ -1,2 +1,2 @@
-# Github-Portfolio
+# Thomas Reis' Github Portfolio
 My Portfolio
