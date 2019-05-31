@@ -1,3 +1,9 @@
 [submodule "Number-Recognizing-Neural-Net"]
 	path = Number-Recognizing-Neural-Net
 	url = https://github.com/Thomas-Reis/Number-Recognizing-Neural-Net
+[submodule "AI-Final"]
+	path = AI-Final
+	url = https://github.com/Bradon-Lodwick/AI-Final
+[submodule "cloud-computing-final"]
+	path = cloud-computing-final
+	url = https://github.com/Bradon-Lodwick/cloud-computing-final
