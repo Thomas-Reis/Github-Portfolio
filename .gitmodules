@@ -7,9 +7,9 @@
 [submodule "cloud-computing-final"]
 	path = cloud-computing-final
 	url = https://github.com/Bradon-Lodwick/cloud-computing-final
-[submodule "DistributedProject2018"]
-	path = DistributedProject2018
-	url = https://github.com/Thomas-Reis/DistributedProject2018
 [submodule "Blackjack-AI"]
 	path = Blackjack-AI
 	url = https://github.com/Thomas-Reis/Blackjack-AI
+[submodule "Distributed-K-Means"]
+	path = Distributed-K-Means
+	url = https://github.com/Thomas-Reis/Distributed-K-Means
