@@ -37,31 +37,42 @@ The following is a GIF of one run of the game where the AI in competitive mode
 * When one is white that means it is simply wandering
 * The (number) symbols around are where the AI is headed next, it is a simple way to view how it thinks and moves
 * The symbols around are the targets themselves labelled with: (AI #)-(Target#) (eg. 3-0 is AI 3's target 0, each agent has their own targets labelled 0 - 4)
+<a name="blackjack-ai"/>  
 
-## Blackjack-AI <a name="blackjack-ai"/>
+## Blackjack-AI 
 A personal project created for the reverse career fair at UOIT in Fall 2018. A simple blackjack AI that used simple probability to determine what moves to make to avoid losing.
   
-## Number Recognizing Neural Net <a name="neural-net"/>
+<a name="neural-net"/>  
+
+## Number Recognizing Neural Net 
 A neural network created using tensorflow that enabled the identification of numbers based on set requirements for the project. Was able to recognize numbers that were corrupted or poorly drawn as well.
 
 ### VISUAL HERE
   
-# Cloud Computing/Full Stack Items <a name="full-stack"/>
+<a name="full-stack"/>  
+
+# Cloud Computing/Full Stack Items 
 ## Cloud-Computing-Final <a name="cloud-computing-final"/>
 A lightweight website Designed to allow students to create portfolios of their projects, and for employers to easily search and discover potential new employees upon graduation or for internships/co-ops.
 
 ### VISUAL HERE
 
-## Renofai (Not Listed) <a name="renofai"/>
+<a name="renofai"/>  
+
+## Renofai (Not Listed)  
 Renofai is not listed on the repos due to the potential for monetization for the project, and the client does not wish to have the code publicly displayed at the moment.
 
 ### VISUAL HERE
 
 # Other Projects
-## Distributed K-Means++ (Data Mining/Distributed Computing) <a name="d-k-means"/>
+<a name="d-k-means"/>  
+
+## Distributed K-Means++ (Data Mining/Distributed Computing) 
 The final project for distributed computing where we implemented the K-Means++ classification algorithm into a distributed environment using JeroMQ (ZeroMQ but for Java) using the MQTT protocol of pub/sub to distribute data to classify.
 
 ### VISUAL HERE?
 
-## Comparative Study of PSO (Particle Swarm Optimization) and DE (Differential Evolution). (Not Listed) <a name="de-pso"/>
+<a name="de-pso"/>  
+
+## Comparative Study of PSO (Particle Swarm Optimization) and DE (Differential Evolution). (Not Listed) 
 The repo for this project is unlisted as I did not create it, it was a group project, and it is currently private.
